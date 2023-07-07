@@ -1,0 +1,17 @@
+0;26,2;1234;Sensor de pressao
+%
+1;27,2;1534;Sensor térmico
+%
+2;50;12345;Sensor Oxigenio
+%
+3;25;6;Sensor Barometrico
+%
+4;2315;6465;LVDT
+%
+5;151.5;22221;sensor de Radiação
+%
+6;12;12345;Multimetro
+%
+7;201;12345;Sensor sEMG
+%
+%
